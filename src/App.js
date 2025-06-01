@@ -12,8 +12,8 @@ function App() {
 <Routes>
 
   <Route path="/" element={<Login />} />
-  <Route path="/notes" element={<Notes />} />
-
+ 
+ {/* <Route path="/notes" element={<Notes />} /> */}
 </Routes>
 
 
